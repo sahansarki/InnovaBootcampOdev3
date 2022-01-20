@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">InnovaOdev3</string>
+
+    <!-- Labels -->
+    <string name="to_get_you_started">Başlamak İçin</string>
+    <string name="try_something_else">Başka bir şey dene</string>
+    <string name="featured_charts">Öne Çıkan Listeler</string>
+
+    <!-- Item Descriptions -->
+    <string name="musicItem1Description">Nate Dogg, Eminem \n C$his and more</string>
+    <string name="musicItem2Description">Trippin Redd, Juice \n WRLD, $uicideboy$ a…</string>
+    <string name="musicItem3Description">Bad Meets Evil, Nate \n Dogg, Lil Wayne and…</string>
+    <string name="musicElseItem1Description">LISA, GAYLE, CKay, \n The Weekend, Imagine…</string>
+    <string name="musicElseItem2Description">Ezhel, cakal, Batuflex, \n Lvbel C5, UZI</string>
+    <string name="musicElseItem3Description">Billie Eilish, Maneskin, \n Arctic Monkeys, The…</string>
+    <string name="musicItemFeature1Description">Şu anda en çok çalınan \n parçalar için haftalık g..</string>
+    <string name="musicItemFeature2Description">Şu anda en çok çalınan \n parçalar için haftalık g..</string>
+    <string name="musicItemFeature3Description">Şu anda en çok çalınan \n parçalar için haftalık g..</string>
+
+    <!-- Bottom Bar Titles -->
+    <string name="home">Ana sayfa</string>
+    <string name="search">Ara</string>
+    <string name="your_library">Kitaplığın</string>
+</resources>

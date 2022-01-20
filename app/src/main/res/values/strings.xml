@@ -1,5 +1,24 @@
 <resources>
     <string name="app_name">InnovaOdev3</string>
+
+    <!-- Labels -->
     <string name="to_get_you_started">To get you started</string>
     <string name="try_something_else">Try something else</string>
+    <string name="featured_charts">Featured Charts</string>
+
+    <!-- Item Descriptions -->
+    <string name="musicItem1Description">Nate Dogg, Eminem \n C$his and more</string>
+    <string name="musicItem2Description">Trippin Redd, Juice \n WRLD, $uicideboy$ a..</string>
+    <string name="musicItem3Description">Bad Meets Evil, Nate \n Dogg, Lil Wayne and …</string>
+    <string name="musicElseItem1Description">LISA, GAYLE, CKay, \n The Weekend, Imagine …</string>
+    <string name="musicElseItem2Description">Ezhel, cakal, Batuflex, \n Lvbel C5, UZI</string>
+    <string name="musicElseItem3Description">Billie Eilish, Maneskin, \n Arctic Monkeys, The …</string>
+    <string name="musicItemFeature1Description">Your weekly update of \n the most played tracks…</string>
+    <string name="musicItemFeature2Description">Your weekly update of \n the most played tracks…</string>
+    <string name="musicItemFeature3Description">Your weekly update of \n the most played tracks rig…</string>
+
+    <!-- Bottom Bar Titles -->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="your_library">Your Library</string>
 </resources>
